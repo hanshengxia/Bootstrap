@@ -3,6 +3,8 @@ This is a bootstrap demo!
 针对不同屏幕分辨率做了处理，完成了响应式布局，导航主要用到了bootstap的collapse navbar-collapse添加了响应式导航的navbar-response，使导航能在小屏时导航隐藏
 大屏时显示
 ![demo导航图](https://github.com/hanshengxia/Bootstrap/tree/master/bootstrap/img/demo.jpg)
+![demo image](https://github.com/hanshengxia/Bootstrap/tree/master/bootstrap/img/demo.jpg)
+![demo导航图](https://github.com/hanshengxia/Bootstrap/tree/master/bootstrap/img/demo.jpg)
 在移动端的小屏时显示，导航条被隐藏，单击下拉显示
 ![demo导航图](https://github.com/hanshengxia/Bootstrap/tree/master/bootstrap/img/demo2.jpg)
 
